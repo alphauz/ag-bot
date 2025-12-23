@@ -1,0 +1,23 @@
+[
+  {
+    "id": "dxm",
+    "jid": "120363047250652316@g.us",
+    "time": "14:34",
+    "commandString": ",menu",
+    "lastRun": "22"
+  },
+  {
+    "id": "7xj",
+    "jid": "120363047250652316@g.us",
+    "time": "14:35",
+    "commandString": ".menu",
+    "lastRun": "22"
+  },
+  {
+    "id": "oxy",
+    "jid": "120363047250652316@g.us",
+    "time": "14:36",
+    "commandString": ",listcmd",
+    "lastRun": "22"
+  }
+]
